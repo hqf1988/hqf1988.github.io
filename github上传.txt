@@ -1,0 +1,14 @@
+¡­or create a new repository on the command line
+echo "# hqf1988.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/hqf1988/hqf1988.github.io.git
+git push -u origin master
+
+ÐÞ¸Ä
+git add .
+git commit -m "change123"
+git push -u origin master
+
+git clone (¿ËÂ¡)
